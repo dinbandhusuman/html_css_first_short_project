@@ -1,0 +1,42 @@
+body{
+  background: #91dba5;
+}
+
+#wel{
+  border: 2px solid black;
+  width: auto;
+}
+.paraone{
+  background: yellow;
+}
+#whatdo{
+  background: red;
+}
+#one{
+  color: red
+}
+#three{
+
+}
+.soluton{
+  border : 1px solid black;
+}
+#log{
+  color: red;
+}
+#email{
+  border-color: red;
+}
+#password{
+  border-color: red;
+}
+#submit{
+  background: yellow;
+  border-color: red;
+}
+.fed{
+  background: blue;
+  /* border-color: white; */
+  border : 2px dashed white;
+  /* border-style:; */
+}

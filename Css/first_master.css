@@ -1,0 +1,13 @@
+p{
+  color: blue;
+}
+
+h1{
+  color: red;
+  border: 10px dotted black;
+  width: 25%;
+  text-align: center;
+}
+body{
+  background: url(https://image.shutterstock.com/z/stock-photo-resting-man-at-the-beach-man-relaxing-at-the-beach-1554710627.jpg);
+}
